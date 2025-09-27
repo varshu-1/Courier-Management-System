@@ -1,5 +1,6 @@
 # Courier-Management-System
 Real-time tracking allows customers to monitor parcel status and location throughout the delivery process, enhancing transparency and customer confidence. The system incorporates staff management capabilities, including automated registration, admin approval processes,and locationbased pickup and delivery assignments to optimize routing efficiency.
+
 --Features of Purposed System: 
 These are the important features of the project Courier Management System: 
 -In computer system of the courier service computation of the rate is easily & quickly 
@@ -18,6 +19,8 @@ which saves our time.
 -Access of any information individually. 
 -Work becomes very speedy. 
 -Easy to update information.
+
+
 
 System Requirements: 
 Software Requirement: 
